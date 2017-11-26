@@ -1,2 +1,2 @@
 # egolord
-Egolord: Custom E-Commerce site and CMS for Egolord Jewelry (Vue.js, Stripe, Cloudinary, Node.js)
+Egolord: Custom E-commerce site and CMS for Egolord Jewelry (Vue.js, Stripe, Cloudinary, Node.js)
